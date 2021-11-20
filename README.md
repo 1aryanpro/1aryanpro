@@ -1,4 +1,4 @@
-# Hi There!
+# Hi There! 👋
 
 I'm Aryan, an independant developer. I have a bunch of projects in my repos, check them out if your interested.
 
