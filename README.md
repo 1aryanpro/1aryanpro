@@ -1,9 +1,17 @@
 # Hi There! 👋
 
-I'm Aryan, an independant developer. I have a bunch of projects in my repos, check them out if your interested.
+I'm Aryan Prodduturi, a passionate computer science major at Georgia Tech, Atlanta, with a strong foundation in various programming languages. My journey in the world of technology is fueled by curiosity and a relentless pursuit of knowledge. I find joy in crafting elegant solutions to complex problems and exploring the endless possibilities of code.
+
+**About Me:**
+- 🎓 Studying Computer Science at Georgia Tech
+- 🏡 Hometown: Milpitas, CA
+
+- 💻 Proficient in bunch of languages: JS, C, C++, Python, Java
+- 🌐 Web Development | 🤖 Machine Learning | 🎲 Board Game Enthusiast
+
+Feel free to explore my repositories to see my coding adventures. I believe in the power of collaboration and open-source contributions, so don't hesitate to reach out if you want to collaborate or discuss exciting projects. Let's code the future together! 🚀
 
 ## Github Stats
-
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=1aryanpro&show_icons=true&count_private=true&theme=react)
 
 <!--
