@@ -6,8 +6,11 @@ I'm Aryan Prodduturi, a passionate computer science major at Georgia Tech, Atlan
 - 🎓 Studying Computer Science at Georgia Tech
 - 🏡 Hometown: Milpitas, CA
 
+**Skills/Interests:**
 - 💻 Proficient in bunch of languages: JS, C, C++, Python, Java
-- 🌐 Web Development | 🤖 Machine Learning | 🎲 Board Game Enthusiast
+- 📊 Spreadsheet Tools and Spreadsheet Formulas
+- 🎨 Years of experience using Graphic Design Tools: Photoshop, Illustrator
+- 🌐 Web Development | 🤖 Machine Learning | 🎲 Board Games
 
 Feel free to explore my repositories to see my coding adventures. I believe in the power of collaboration and open-source contributions, so don't hesitate to reach out if you want to collaborate or discuss exciting projects. Let's code the future together! 🚀
 
